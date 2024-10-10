@@ -1,0 +1,16 @@
+.form  {
+    display : "flex",
+    
+}
+.container {
+    background-color :  #ffffff,
+}
+
+.title  {
+    margin:"0px 0 20px 0"
+}
+
+
+.button  {
+    margin:"20px 0"
+}
